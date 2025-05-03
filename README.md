@@ -26,27 +26,12 @@ This repository serves as a resource for:
 - Project Managers
 - Stakeholders
 
-## 🗂️ Folder Structure
-
-── Test_Plan/
-│ └── TestPlan_Document.pdf
-├── Test_Cases/
-│ ├── Functional_TestCases.xlsx
-│ ├── Regression_TestCases.xlsx
-│ ├── UI_TestCases.xlsx
-│ └── Smoke_TestCases.xlsx
-│
-└── README.md
-
-markdown
-Copy
-Edit
 
 ## 📝 Test Plan
 
 The **Test Plan** outlines the testing strategy, scope, objectives, resources, schedule, and deliverables.
 
-📄 **Location:** `/Test_Plan/TestPlan_Document.pdf`
+📄 **Location:** `TestPlan_Document.pdf`
 
 Contents of the Test Plan:
 - Scope of Testing
@@ -113,6 +98,5 @@ Open a Pull Request
 For queries, suggestions, or collaborations:
 
 Pramod Dutta
-📧 pramoddutta@live.com
 🔗 LinkedIn
 🌐 TheTestingAcademy
